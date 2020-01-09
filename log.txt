@@ -1,0 +1,712 @@
+USBDRV,NT,NTia64,NTamd64
+
+USB\VID_1f3a&PID_efe8
+
+Search for Device ID: [USB\VID_1f3a&PID_efe8]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C01]
+
+
+Compare device ID: [ACPI\PNP0C01]
+
+
+Compare device ID: [*PNP0C01]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C01]
+
+
+Compare device ID: [ACPI\PNP0C01]
+
+
+Compare device ID: [*PNP0C01]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [USB\VID_04CA&PID_3005&REV_0001]
+
+
+Compare device ID: [USB\VID_04CA&PID_3005]
+
+
+Compare device ID: [SW\{96E080C7-143C-11D1-B40F-00A0C9223196}]
+
+
+Compare device ID: [SCSI\DiskSG9MSM6D024GPM00________S8FM]
+
+
+Compare device ID: [SCSI\DiskSG9MSM6D024GPM00________]
+
+
+Compare device ID: [SCSI\DiskSG9MSM6D]
+
+
+Compare device ID: [SCSI\SG9MSM6D024GPM00________S]
+
+
+Compare device ID: [SG9MSM6D024GPM00________S]
+
+
+Compare device ID: [GenDisk]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0A]
+
+
+Compare device ID: [ACPI\PNP0C0A]
+
+
+Compare device ID: [*PNP0C0A]
+
+
+Compare device ID: [PCI\VEN_168C&DEV_0032&SUBSYS_662811AD&REV_01]
+
+
+Compare device ID: [PCI\VEN_168C&DEV_0032&SUBSYS_662811AD]
+
+
+Compare device ID: [PCI\VEN_168C&DEV_0032&CC_028000]
+
+
+Compare device ID: [PCI\VEN_168C&DEV_0032&CC_0280]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0151&SUBSYS_100D1043&REV_09]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0151&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0151&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0151&CC_0604]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E12&SUBSYS_100D1043&REV_C4]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E12&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E12&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E12&CC_0604]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0200]
+
+
+Compare device ID: [ACPI\PNP0200]
+
+
+Compare device ID: [*PNP0200]
+
+
+Compare device ID: [ROOT\VOLMGR]
+
+
+Compare device ID: [ACPI\VEN_ETD&DEV_0108]
+
+
+Compare device ID: [ACPI\ETD0108]
+
+
+Compare device ID: [*ETD0108]
+
+
+Compare device ID: [ACPI\VEN_INT&DEV_3400]
+
+
+Compare device ID: [ACPI\INT3400]
+
+
+Compare device ID: [*INT3400]
+
+
+Compare device ID: [ms_pppoeminiport]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0B00]
+
+
+Compare device ID: [ACPI\PNP0B00]
+
+
+Compare device ID: [*PNP0B00]
+
+
+Compare device ID: [USB\ROOT_HUB20&VID8086&PID1E2D&REV0004]
+
+
+Compare device ID: [USB\ROOT_HUB20&VID8086&PID1E2D]
+
+
+Compare device ID: [USB\ROOT_HUB20]
+
+
+Compare device ID: [ROOT\BasicDisplay]
+
+
+Compare device ID: [ACPI\ThermalZone]
+
+
+Compare device ID: [*ThermalZone]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0E]
+
+
+Compare device ID: [ACPI\PNP0C0E]
+
+
+Compare device ID: [*PNP0C0E]
+
+
+Compare device ID: [USB\VID_8087&PID_0024&REV_0000]
+
+
+Compare device ID: [USB\VID_8087&PID_0024]
+
+
+Compare device ID: [USB\ROOT_HUB20&VID8086&PID1E26&REV0004]
+
+
+Compare device ID: [USB\ROOT_HUB20&VID8086&PID1E26]
+
+
+Compare device ID: [USB\ROOT_HUB20]
+
+
+Compare device ID: [ACPI\VEN_ATK&DEV_3001]
+
+
+Compare device ID: [ACPI\ATK3001]
+
+
+Compare device ID: [*ATK3001]
+
+
+Compare device ID: [ms_pptpminiport]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E2D&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E2D&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E2D&CC_0C0320]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E2D&CC_0C03]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0103]
+
+
+Compare device ID: [ACPI\PNP0103]
+
+
+Compare device ID: [*PNP0103]
+
+
+Compare device ID: [ms_agilevpnminiport]
+
+
+Compare device ID: [ROOT\CompositeBus]
+
+
+Compare device ID: [ROOT\vdrvroot]
+
+
+Compare device ID: [Root\Spaceport]
+
+
+Compare device ID: [root\kdnic]
+
+
+Compare device ID: [STORAGE\VolumeSnapshot]
+
+
+Compare device ID: [STORAGE\VolumeSnapshot]
+
+
+Compare device ID: [STORAGE\VolumeSnapshot]
+
+
+Compare device ID: [MMDEVAPI\AudioEndpoints]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0153&SUBSYS_100D1043&REV_09]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0153&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0153&CC_118000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0153&CC_1180]
+
+
+Compare device ID: [ACPI\VEN_ACPI&DEV_0003]
+
+
+Compare device ID: [ACPI\ACPI0003]
+
+
+Compare device ID: [*ACPI0003]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_5289&SUBSYS_202F1043&REV_01]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_5289&SUBSYS_202F1043]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_5289&CC_FF0000]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_5289&CC_FF00]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0D]
+
+
+Compare device ID: [ACPI\PNP0C0D]
+
+
+Compare device ID: [*PNP0C0D]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E26&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E26&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E26&CC_0C0320]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E26&CC_0C03]
+
+
+Compare device ID: [USB\VID_8087&PID_0024&REV_0000]
+
+
+Compare device ID: [USB\VID_8087&PID_0024]
+
+
+Compare device ID: [SCSI\Disk____HGSTHTS545050A7E6800GR2O]
+
+
+Compare device ID: [SCSI\Disk____HGSTHTS545050A7E6800]
+
+
+Compare device ID: [SCSI\Disk____HGST]
+
+
+Compare device ID: [SCSI\____HGSTHTS545050A7E6800G]
+
+
+Compare device ID: [____HGSTHTS545050A7E6800G]
+
+
+Compare device ID: [GenDisk]
+
+
+Compare device ID: [root\umbus]
+
+
+Compare device ID: [USB\VID_13D3&PID_5165&REV_0823&MI_00]
+
+
+Compare device ID: [USB\VID_13D3&PID_5165&MI_00]
+
+
+Compare device ID: [ROOT\CAD]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0000]
+
+
+Compare device ID: [ACPI\PNP0000]
+
+
+Compare device ID: [*PNP0000]
+
+
+Compare device ID: [acpiapic]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_8168&SUBSYS_200F1043&REV_0A]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_8168&SUBSYS_200F1043]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_8168&CC_020000]
+
+
+Compare device ID: [PCI\VEN_10EC&DEV_8168&CC_0200]
+
+
+Compare device ID: [ms_ndiswanbh]
+
+
+Compare device ID: [ms_ndiswanip]
+
+
+Compare device ID: [ACPI\VEN_pnp&DEV_0c14]
+
+
+Compare device ID: [ACPI\pnp0c14]
+
+
+Compare device ID: [*pnp0c14]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0A08]
+
+
+Compare device ID: [ACPI\PNP0A08]
+
+
+Compare device ID: [*PNP0A08]
+
+
+Compare device ID: [PRINTENUM\{084f01fa-e634-4d77-83ee-074817c03581}]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [{084f01fa-e634-4d77-83ee-074817c03581}]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E59&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E59&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E59&CC_060100]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E59&CC_0601]
+
+
+Compare device ID: [MONITOR\AUO303C]
+
+
+Compare device ID: [ACPI_HAL\PNP0C08]
+
+
+Compare device ID: [*PNP0C08]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [ROOT\BasicRender]
+
+
+Compare device ID: [ms_sstpminiport]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E16&SUBSYS_100D1043&REV_C4]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E16&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E16&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E16&CC_0604]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_0FDF&SUBSYS_100D1043&REV_A1]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_0FDF&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_0FDF&CC_030200]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_0FDF&CC_0302]
+
+
+Compare device ID: [ACPI\FixedButton]
+
+
+Compare device ID: [*FixedButton]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E20&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E20&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E20&CC_040300]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E20&CC_0403]
+
+
+Compare device ID: [MMDEVAPI\AudioEndpoints]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C09]
+
+
+Compare device ID: [ACPI\PNP0C09]
+
+
+Compare device ID: [*PNP0C09]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0166&SUBSYS_100D1043&REV_09]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0166&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0166&CC_030000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_0166&CC_0300]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C04]
+
+
+Compare device ID: [ACPI\PNP0C04]
+
+
+Compare device ID: [*PNP0C04]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_58]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E31&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E31&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E31&CC_0C0330]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E31&CC_0C03]
+
+
+Compare device ID: [ACPI\VEN_pnp&DEV_0c14]
+
+
+Compare device ID: [ACPI\pnp0c14]
+
+
+Compare device ID: [*pnp0c14]
+
+
+Compare device ID: [ACPI\VEN_ATK&DEV_4001]
+
+
+Compare device ID: [ACPI\ATK4001]
+
+
+Compare device ID: [*ATK4001]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E03&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E03&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E03&CC_010601]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E03&CC_0106]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [SCSI\CdRomMATSHITADVD-RAM_UJ8C2_S_1.00]
+
+
+Compare device ID: [SCSI\CdRomMATSHITADVD-RAM_UJ8C2_S_]
+
+
+Compare device ID: [SCSI\CdRomMATSHITA]
+
+
+Compare device ID: [SCSI\MATSHITADVD-RAM_UJ8C2_S_1]
+
+
+Compare device ID: [MATSHITADVD-RAM_UJ8C2_S_1]
+
+
+Compare device ID: [GenCdRom]
+
+
+Compare device ID: [USB\VID_13D3&PID_5165&REV_0823]
+
+
+Compare device ID: [USB\VID_13D3&PID_5165]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E3A&SUBSYS_100D1043&REV_04]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E3A&SUBSYS_100D1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E3A&CC_078000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_1E3A&CC_0780]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0100]
+
+
+Compare device ID: [ACPI\PNP0100]
+
+
+Compare device ID: [*PNP0100]
+
+
+Compare device ID: [PRINTENUM\{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}]
+
+
+Compare device ID: [USB\VID_1f3a&PID_efe8]
+
+
+Found! [USB\VID_1f3a&PID_efe8]
+
+

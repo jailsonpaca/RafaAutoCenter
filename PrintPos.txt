@@ -1,0 +1,3 @@
+@ECHO OFF
+ECHO PDFtoPrinter.exe test.pdf "POS-58"
+PAUSE

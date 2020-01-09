@@ -1,0 +1,196 @@
+{"date":"19-Out-2019 20:47:40","total":"2900.00","desconto":35,"cartao":false,"parcelas":-1,"totalPago":"3000.00","troco":"-100.00","garantia":"45 dias","info":"cheque de 440 reais","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"},{"id":7896412800764,"name":"One Plus 5T","price":"500.00","quantity":2,"precofabrica":"400.00"},{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":"270.00","quantity":1,"precofabrica":"200.00"},{"id":7896429701016,"name":"Zealot B19 Bluetooth Headphone","price":"15.00","quantity":1,"precofabrica":"NaN"},{"id":7891080400100,"name":"Dell Latitude 7480 14-Inch Laptop","price":"1200.00","quantity":1,"precofabrica":"NaN"}],"_id":"0GSFcNsolPFZLSnR"}
+{"date":"27-Out-2019 22:17:48","total":"29.01","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7899264321838,"name":"caderno","price":"13.00","quantity":2,"precofabrica":"7.00"}],"_id":"0GaQHKKudxO4GSOs"}
+{"date":"11-Out-2019 15:25:47","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"0U4eKNEYR4yCCSRM"}
+{"date":"13-Out-2019 00:23:18","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"0nmPfFRPLVzOAakQ"}
+{"date":"04-Out-2019 23:15:37","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"0whW5RhE74I2ih3O"}
+{"date":"27-Set-2019 15:35:01","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"0xClnkaPUI1A8Fbl"}
+{"date":"27-Set-2019 15:48:22","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"18QcdQCvm9M8FJV8"}
+{"date":"13-Out-2019 10:28:06","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"1LSxo8uaPfFeGVMl"}
+{"date":"13-Out-2019 00:32:30","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"1LrISlAFboNiqC2r"}
+{"date":"27-Set-2019 15:24:29","total":0,"items":[],"_id":"1bXtnhgeONUgsiUK"}
+{"date":"05-Out-2019 20:23:14","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"1cjLm8E6NhbfOa6P"}
+{"date":"07-Out-2019 18:37:32","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"1y7jK1bGZ6sX1axJ"}
+{"date":"07-Out-2019 18:34:17","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"2ISWFjit8ytU5rTm"}
+{"date":"19-Out-2019 15:37:21","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"NaN"}],"_id":"2gFARz3nOvviPrjU"}
+{"date":"13-Out-2019 10:26:28","total":270,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"3bTgSJxWpiFe6SD0"}
+{"date":"30-Set-2019 17:05:41","total":23,"items":[{"id":0,"name":"fg","price":"23","quantity":1}],"_id":"3rc3ARid8kvxYN3g"}
+{"date":"04-Out-2019 14:02:19","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"49MOzDvz9pyQmioz"}
+{"date":"07-Out-2019 18:43:20","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"4Bp4p90Xji59B762"}
+{"date":"30-Set-2019 17:10:13","total":136,"items":[{"id":0,"name":"er","price":"34","quantity":4}],"_id":"4DBJDL5hZY8XMJT2"}
+{"date":"12-Out-2019 23:57:49","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"4NJTaEBVkbjd5u3s"}
+{"date":"04-Out-2019 22:57:18","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"4oJd4pagBe4qBrli"}
+{"date":"18-Mar-2018 11:45:50","total":110,"items":[{"id":0,"name":"Printer HP DeskJet","price":"110","quantity":1}],"_id":"4pchhia2ql34Ww5d"}
+{"date":"30-Set-2019 17:17:58","total":60,"items":[{"id":0,"name":"hj","price":"12","quantity":3},{"id":1,"name":"hj","price":"12","quantity":2}],"_id":"5H7ZLk03NytxThUv"}
+{"date":"04-Out-2019 13:23:21","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"5PO6xBm6Z4vh4sOa"}
+{"date":"19-Out-2019 15:41:23","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"NaN"}],"_id":"5bxjkGtZw3bXdQEx"}
+{"date":"13-Out-2019 00:42:05","total":450,"cartao":true,"parcelas":2,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"5wPQGcxrXPmKKclo"}
+{"date":"11-Out-2019 15:29:01","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"63LwqKVuzbzFWnWL"}
+{"date":"13-Out-2019 09:37:26","total":450,"cartao":true,"parcelas":5,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"6s3cGfFd5zkh0i6x"}
+{"date":"05-Out-2019 19:47:27","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"72XCRkte6NPUygCI"}
+{"date":"07-Out-2019 18:19:23","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"7Xei7SYVxus4mhNw"}
+{"date":"26-Out-2019 23:03:56","total":"27.15","desconto":"1.00","cartao":true,"parcelas":2,"troco":0,"garantia":"45 dias","items":[{"id":7899264321838,"name":"caderno","price":"13.00","quantity":2,"precofabrica":"7.00"}],"_id":"7cvCWKy3Q0DjoPee"}
+{"date":"27-Set-2019 15:22:05","total":0,"items":[],"_id":"7lMQOI1CsTC7oKPd"}
+{"date":"13-Out-2019 13:50:38","total":270,"cartao":false,"parcelas":-1,"totalPago":"340","troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"7txv2DZ4sXWWyfa6"}
+{"date":"12-Out-2019 23:55:53","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"8CJMD0rqfznmOYEf"}
+{"date":"12-Out-2019 23:53:13","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"8KiQAUpOjeVFWkPf"}
+{"date":"30-Set-2019 17:27:40","total":90,"items":[{"id":0,"name":"gh","price":"45","quantity":1},{"id":1,"name":"gh","price":"45","quantity":1}],"_id":"8TUvgpVVCua8myVw"}
+{"date":"13-Out-2019 11:04:12","total":270,"cartao":false,"parcelas":-1,"totalPago":"280","troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"8kg40r7FwByHDNAE"}
+{"date":"07-Out-2019 18:17:30","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"8yZudi7SpfEbB7EC"}
+{"date":"13-Out-2019 14:39:00","total":270.473,"desconto":"13","cartao":true,"parcelas":1,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"97ST7nywoRE9bydN"}
+{"date":"04-Out-2019 22:11:19","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"9ZsH9RCgDEnUcoSJ"}
+{"date":"13-Out-2019 00:37:22","total":270,"cartao":true,"parcelas":4,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"9rCWEXJrmv7VYLWb"}
+{"date":"13-Out-2019 00:38:35","total":450,"cartao":true,"parcelas":4,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"9xyXVfPCFfnGu65U"}
+{"date":"07-Out-2019 17:32:39","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"A8i7LUOtZaozu02T"}
+{"date":"11-Out-2019 15:27:39","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"A8puZJkhLUVFLFgQ"}
+{"date":"05-Out-2019 20:16:18","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"ATPJQFMwGGLUtMJO"}
+{"date":"04-Out-2019 22:52:57","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"BD6AoUnQsoUX1Y16"}
+{"date":"27-Set-2019 15:50:34","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"BH8fJkgnF3UMxU6n"}
+{"date":"04-Out-2019 23:08:55","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"BMNJTj9uzCYKrrJq"}
+{"date":"07-Out-2019 17:21:48","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"BZ0pJ732eWiBHBeF"}
+{"date":"27-Set-2019 15:33:01","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1}],"_id":"BbySM8IwD5A7PEVy"}
+{"date":"27-Set-2019 15:22:05","total":0,"items":[],"_id":"BeDNJKOAUYCVc9xc"}
+{"date":"27-Set-2019 15:35:01","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"C2s3msOp8WkwaV3M"}
+{"date":"11-Out-2019 15:23:04","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Cmb3dl9sGFXXAQkT"}
+{"date":"04-Out-2019 13:24:36","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"CrMJZMlPYKCEbK3z"}
+{"date":"11-Out-2019 15:22:21","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"CwzbcYeOPwka7Wm2"}
+{"date":"14-Out-2019 19:27:23","total":270,"desconto":0,"cartao":false,"parcelas":-1,"totalPago":"340","troco":-70,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1,"precofabrica":200}],"_id":"D9MXCDzzCeNR18dO"}
+{"date":"13-Out-2019 11:03:03","total":270,"cartao":false,"parcelas":-1,"totalPago":"275","troco":0,"garantia":"32","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"EH7f1hwIZOu3VT8c"}
+{"date":"04-Out-2019 13:20:33","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"EhffRQbYVCVc6FLE"}
+{"date":"04-Out-2019 13:36:34","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Ep7cK5zWyIGUSAyT"}
+{"date":"27-Set-2019 15:50:06","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"F6sfml5nV2k5cSDg"}
+{"date":"13-Out-2019 13:31:15","total":270,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"FIyAGu6IYK3IZmhm"}
+{"date":"27-Set-2019 15:25:44","total":0,"items":[],"_id":"FcmavbeAc6m8BGtc"}
+{"date":"07-Out-2019 17:06:31","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Fg4I3k4sM8SOXnU9"}
+{"date":"05-Out-2019 20:10:27","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"FqtX1Mi0ds9wQmok"}
+{"date":"19-Out-2019 15:42:24","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"NaN"}],"_id":"FrhUf9Vd9VZzJo53"}
+{"date":"13-Out-2019 09:58:28","total":450,"cartao":true,"parcelas":5,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"GWL7NkjU8fhVcAxq"}
+{"date":"19-Out-2019 21:18:52","total":"4961.18","desconto":"5.00","cartao":true,"parcelas":4,"troco":0,"garantia":"34 qweqweq","info":"asdadxcvxcvxcv asd","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"},{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":"270.00","quantity":1,"precofabrica":"200.00"},{"id":7891080400100,"name":"Dell Latitude 7480 14-Inch Laptop","price":"1200.00","quantity":3,"precofabrica":"NaN"},{"id":7896429701016,"name":"Zealot B19 Bluetooth Headphone","price":"15.00","quantity":1,"precofabrica":"NaN"}],"_id":"Ga11DGXzbHheJ11r"}
+{"date":"13-Out-2019 00:02:50","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"GeW4hGN8BiWOLzvd"}
+{"date":"27-Set-2019 15:28:42","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1}],"_id":"GntekePMYjGVBkcX"}
+{"date":"13-Out-2019 10:20:15","total":500,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896412800764,"name":"One Plus 5T","price":500,"quantity":1}],"_id":"GteAn3MaUF5JgVtb"}
+{"date":"13-Out-2019 10:05:00","total":270,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"HahWajRbP6RJEKZl"}
+{"date":"12-Out-2019 23:48:33","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Hp523exsldIEaisW"}
+{"date":"13-Out-2019 09:36:25","total":450,"cartao":true,"parcelas":2,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"I7FL8NyHpU6p6YXC"}
+{"date":"13-Out-2019 09:33:35","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"IbRo7E9yLZsQaOcd"}
+{"date":"07-Out-2019 15:02:52","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"J018r3u4C6ujtsjS"}
+{"date":"30-Set-2019 11:01:04","total":67,"items":[{"id":0,"name":"jk","price":"67","quantity":1}],"_id":"JsFosInb8mNQ7Nge"}
+{"date":"07-Out-2019 15:00:10","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Jw0XpY6l07lnISIS"}
+{"date":"27-Out-2019 22:54:39","total":"90.00","desconto":3,"cartao":false,"parcelas":-1,"totalPago":"90.00","troco":"0.00","garantia":"35 dias","items":[{"id":9788535223293,"name":"livro","price":"40.00","quantity":1,"precofabrica":"35.00"},{"id":7899264321838,"name":"caderno","price":"13.00","quantity":1,"precofabrica":"7.00"},{"id":111,"name":"serviço","price":"40.00","quantity":1,"precofabrica":"0.00"}],"_id":"KBGQrgfl9jQPqv5g"}
+{"date":"13-Out-2019 10:57:23","total":1350,"cartao":false,"parcelas":-1,"totalPago":"1440","troco":0,"garantia":"34","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":3}],"_id":"KBilcMvX5RINaxyW"}
+{"date":"30-Set-2019 19:17:13","total":68,"items":[{"id":0,"name":"asd","price":"34","quantity":2}],"_id":"KQB1SFYH2wXJ2ffz"}
+{"date":"04-Out-2019 14:38:54","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"KYjqqffCG9NSf0GH"}
+{"date":"27-Set-2019 15:50:06","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"Knel2fBvpj24Ww53"}
+{"date":"07-Out-2019 16:19:43","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"LM9POBnnfV30z1if"}
+{"date":"19-Out-2019 15:34:22","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"NaN"}],"_id":"LcxGYWuP4foDgmdq"}
+{"date":"04-Out-2019 12:11:37","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"LosxGdjwb0W4XmGL"}
+{"date":"17-Mar-2018 15:32:17","total":1215,"items":[{"id":0,"name":"Samsung S7 Galaxy","price":"600","quantity":2},{"id":1,"name":"USB Cable (Samsung)","price":"5","quantity":3}],"_id":"MLI1MEMz2w4kShth"}
+{"date":"14-Out-2019 16:31:58","total":260,"desconto":"10","cartao":false,"parcelas":-1,"totalPago":"260","troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1,"precofabrica":200}],"_id":"MZVj5t7mfbJQGqmN"}
+{"date":"04-Out-2019 23:07:17","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Miye7HoSLKnEb4Sz"}
+{"date":"30-Set-2019 18:13:57","total":23,"items":[{"id":0,"name":"cv","price":"23","quantity":1}],"_id":"MlsHQC3V3og7LgOI"}
+{"date":"27-Set-2019 15:48:22","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"Mz1mr279ft8M8KxG"}
+{"date":"27-Set-2019 15:29:46","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1}],"_id":"N2dwFfLyhGS5wyHq"}
+{"date":"13-Out-2019 10:00:58","total":270,"cartao":true,"parcelas":2,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"NExykLGvJ2BABs7C"}
+{"date":"07-Out-2019 16:59:46","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NG94eA9XipdnSxdh"}
+{"date":"13-Out-2019 00:24:20","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NRfFxF1gnfCmaFqI"}
+{"date":"04-Out-2019 22:54:39","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NRkGCpeuzKqaVwwk"}
+{"date":"27-Out-2019 23:21:38","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"NWTscSobgfYgsHST"}
+{"date":"11-Out-2019 16:09:46","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Nh1QD0QkI4mlSptC"}
+{"date":"05-Out-2019 20:07:25","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NmhFcOMuIGYUcBI7"}
+{"date":"04-Out-2019 13:31:40","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NmnHpFxcbFsWgNVD"}
+{"date":"07-Out-2019 18:04:15","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NpvH8sANvxPsCAg9"}
+{"date":"04-Out-2019 22:18:08","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"NxZyFjJST3ZHw8Zf"}
+{"date":"05-Out-2019 19:53:08","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"O3m3kZX7N8StdWvG"}
+{"date":"13-Out-2019 10:49:30","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"O3rb4BCf8Ou0wqCU"}
+{"date":"13-Out-2019 14:02:08","total":270,"cartao":false,"parcelas":-1,"totalPago":"274","troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"OO5YTZe9BmhaFp4x"}
+{"date":"27-Set-2019 15:33:49","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"OX84mHyGG5H73qhe"}
+{"date":"13-Out-2019 13:49:42","total":270,"cartao":false,"parcelas":-1,"totalPago":"275","troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"OY6GACvKf2qJGmKP"}
+{"date":"13-Out-2019 10:54:42","total":1620,"cartao":false,"parcelas":-1,"totalPago":"1635","troco":0,"garantia":"34","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1},{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":3}],"_id":"Oj4VedxVKPiSnivI"}
+{"date":"07-Out-2019 16:52:46","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"OpoYCAezqfovMRif"}
+{"date":"04-Out-2019 13:33:44","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"P145YueHPUUhHkvw"}
+{"date":"03-Out-2019 21:23:49","total":10,"items":[{"id":0,"name":"test","price":"5","quantity":2}],"_id":"PTkDTyj0s97rCXkl"}
+{"date":"13-Out-2019 14:17:28","total":450,"cartao":false,"parcelas":-1,"totalPago":"450","troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"RBKAn0KqH1ZUFtfn"}
+{"date":"13-Out-2019 00:28:13","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"RTFl3SzTAu794MYV"}
+{"date":"19-Out-2019 20:58:59","total":"502.06","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"RlmxsrllmVyjYEH8"}
+{"date":"11-Out-2019 15:29:49","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"RoLWztKnn0YwW3gW"}
+{"date":"30-Set-2019 18:02:42","total":34,"items":[{"id":0,"name":"er","price":"34","quantity":1}],"_id":"SRnCVK3v3qhoDgt8"}
+{"date":"05-Out-2019 20:36:50","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Sb60fKIJPxVuvQXy"}
+{"date":"05-Out-2019 20:20:36","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"SkJVFQTZuOWrMDSY"}
+{"date":"28-Out-2019 21:37:02","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"SpqKXztGj8d5lPCA"}
+{"date":"13-Out-2019 14:48:33","total":900.9100000000001,"desconto":"17","cartao":true,"parcelas":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":2}],"_id":"TQlXaYwkPsGhV1kj"}
+{"date":"19-Out-2019 21:03:12","total":"502.06","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"TbAPIkmeptjWzoY3"}
+{"date":"04-Out-2019 15:03:04","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"TeEqKtk4qyH2uhYa"}
+{"date":"27-Set-2019 15:36:19","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"TsazvNHZE2snycHt"}
+{"date":"18-Mar-2018 11:42:44","total":200,"items":[{"id":1,"name":"WebCam","price":"100","quantity":2}],"_id":"U2mcJtoJkauje7L3"}
+{"date":"30-Set-2019 17:09:28","total":46,"items":[{"id":0,"name":"hj","price":"23","quantity":2}],"_id":"UT7rbzfVBYKyqRFS"}
+{"date":"04-Out-2019 14:40:01","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Wcaby0LnaQ6jVoOo"}
+{"date":"07-Out-2019 15:14:38","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Wi6pXT7O5SWsdtNU"}
+{"date":"07-Out-2019 17:04:51","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"XCampvEawCa9Tk06"}
+{"date":"19-Out-2019 21:05:04","total":"488.61","desconto":"0.00","cartao":true,"parcelas":2,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"XuwtXcHmPeseDUWz"}
+{"date":"04-Out-2019 14:35:50","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"Y22WTJjXyk2AYZPi"}
+{"date":"19-Out-2019 21:11:41","total":"301.24","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":"270.00","quantity":1,"precofabrica":"200.00"}],"_id":"Z8WmXj798XcG7JDP"}
+{"date":"05-Out-2019 20:12:00","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"ZEYgCzWcpoxySPEL"}
+{"date":"04-Out-2019 23:03:03","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"ZEpJKk2wRmqtXvh2"}
+{"date":"04-Out-2019 23:03:44","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"ZaPB3LC2JYCsUEkC"}
+{"date":"13-Out-2019 00:30:51","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"aQqcc9eWrgBDcBN0"}
+{"date":"27-Set-2019 15:28:42","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1}],"_id":"aTMkW2UdxZqtCyHx"}
+{"date":"19-Out-2019 21:01:52","total":"1539.67","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896429701016,"name":"Zealot B19 Bluetooth Headphone","price":"15.00","quantity":2,"precofabrica":"NaN"},{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":3,"precofabrica":"400.00"}],"_id":"aVjQnJN1JgPlFQ9I"}
+{"date":"07-Out-2019 16:55:14","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"aa4koOuLvHpTf5qn"}
+{"date":"19-Out-2019 16:16:18","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"bg6HdCQYwvEOIKNs"}
+{"date":"05-Out-2019 19:59:41","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"c6j3RlhfnIoPLV63"}
+{"date":"04-Out-2019 22:56:02","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"cu3VUoTgxhwHuiVq"}
+{"date":"27-Set-2019 15:29:46","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1}],"_id":"dSPWcOcOAAFtrhai"}
+{"date":"18-Mar-2018 10:53:03","total":670,"items":[{"id":0,"name":"Nexus 7 Tablet(2013)","price":"300","quantity":2},{"id":1,"name":"Seagate Harddisk (2TB)","price":"70","quantity":1}],"_id":"dY7ulb40cjZdfVGb"}
+{"date":"11-Out-2019 15:21:15","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"dl5Wj5QFU1VXxlDn"}
+{"date":"07-Out-2019 17:39:33","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"e0wuhF2bPamXOIN2"}
+{"date":"07-Out-2019 17:38:13","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"eWWfj4vAjeSa0lBR"}
+{"date":"13-Out-2019 10:13:16","total":270,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"fU30OcYtweGhadaa"}
+{"date":"19-Out-2019 21:09:41","total":"301.24","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":"270.00","quantity":1,"precofabrica":"200.00"}],"_id":"fd1I4u8fYx7xySPW"}
+{"date":"13-Out-2019 09:56:48","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"h65Mdogsup9VgIWv"}
+{"date":"12-Out-2019 23:59:36","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"h9hqUVHFpM3D2Ox8"}
+{"date":"19-Out-2019 20:41:29","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"30 dias contra defeito de fabricação","info":"ghj","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"hHfVeW0jZoMocNwp"}
+{"date":"04-Out-2019 13:44:45","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"hXUvBh9O0gQrlFLa"}
+{"date":"30-Set-2019 18:20:10","total":56,"items":[{"id":0,"name":"hj","price":"56","quantity":1}],"_id":"heouZyvoUFfAo3jB"}
+{"date":"11-Out-2019 15:00:40","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"hjzWWXHGrxH377C2"}
+{"date":"07-Out-2019 17:28:31","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"hli1YfxYb13LBzAI"}
+{"date":"07-Out-2019 17:01:53","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"hwkutIeu7QUSucAr"}
+{"date":"04-Out-2019 23:06:27","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"iWZpHHHLSoHKk1aL"}
+{"date":"05-Out-2019 20:28:28","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"iXKCsQ81FLnohhY5"}
+{"date":"13-Out-2019 09:34:47","total":500,"cartao":true,"parcelas":2,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896412800764,"name":"One Plus 5T","price":500,"quantity":1}],"_id":"ifCZS7c6Tp7g4GKQ"}
+{"date":"19-Out-2019 21:44:59","total":"450.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"450.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"jeyhGvonx2fgGvnM"}
+{"date":"03-Out-2019 21:30:07","total":45,"items":[{"id":0,"name":"test2","price":"45","quantity":1}],"_id":"kEIDU51d1uMlTFb5"}
+{"date":"13-Out-2019 13:39:51","total":270,"cartao":false,"parcelas":-1,"totalPago":"275","garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"l6uDhvn20qS9pRCg"}
+{"date":"27-Set-2019 15:33:01","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1}],"_id":"lmiXzL9fvtqyUF8y"}
+{"date":"11-Out-2019 12:47:01","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"mkQT0p9CjEBuoWc7"}
+{"date":"27-Set-2019 15:25:44","total":0,"items":[],"_id":"mpviRWtbFCnbL9nq"}
+{"date":"13-Out-2019 00:17:59","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"mskXqhonydPXJpJ3"}
+{"date":"13-Out-2019 09:56:14","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"n8R0j2eXl8fqhKtT"}
+{"date":"05-Out-2019 20:05:01","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"nIvBSwJKABykogcY"}
+{"date":"27-Out-2019 23:23:44","total":"1200.00","desconto":0,"cartao":false,"parcelas":-1,"totalPago":"1200.00","troco":"0.00","garantia":"NÃO POSSUI","items":[{"id":7891080400100,"name":"Dell Latitude 7480 14-Inch Laptop","price":"1200.00","quantity":1,"precofabrica":"1100.00"}],"_id":"nQGnZq2lx66NO8aT"}
+{"date":"04-Out-2019 13:18:40","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"nvKPiWQlr4hthpih"}
+{"date":"04-Out-2019 13:39:15","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"phJhrxfqoPm2svnQ"}
+{"date":"13-Out-2019 13:30:17","total":270,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"plS6i6ZbxN75RVOL"}
+{"date":"13-Out-2019 00:46:19","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"qGCyAxSL2Fl4f8C5"}
+{"date":"12-Out-2019 23:55:06","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"qIpUJhTp0lIKSLXB"}
+{"date":"13-Out-2019 09:59:53","total":450,"cartao":true,"parcelas":4,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"sDKBUBTpqO75iPZV"}
+{"date":"13-Out-2019 10:03:14","total":270,"cartao":true,"parcelas":2,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"sh1T499YiPt37pnN"}
+{"date":"27-Set-2019 15:36:19","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"smbiinrUX9AzGGZB"}
+{"date":"27-Set-2019 15:24:29","total":0,"items":[],"_id":"tJgU00DymJQnaeS2"}
+{"date":"04-Out-2019 13:42:38","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"tQB5Kg6tIewftMOj"}
+{"date":"27-Out-2019 23:22:08","total":"950.00","desconto":50,"cartao":false,"parcelas":-1,"totalPago":"1000.00","troco":"-50.00","garantia":"NÃO POSSUI","items":[{"id":7896412800764,"name":"One Plus 5T","price":"500.00","quantity":2,"precofabrica":"400.00"}],"_id":"uNeg7bwh2afFRzGg"}
+{"date":"11-Out-2019 12:15:29","total":450,"cartao":true,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"uRRrylZ2OfEoXI6a"}
+{"date":"13-Out-2019 15:16:05","total":260,"desconto":"10","cartao":false,"parcelas":-1,"totalPago":"260","troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"umWcWcrZIxEFEbBI"}
+{"date":"03-Out-2019 21:33:15","total":135,"items":[{"id":0,"name":"bl23","price":"45","quantity":1},{"id":1,"name":"testando","price":"45","quantity":2}],"_id":"urlHXL6BtSxQaGc6"}
+{"date":"27-Set-2019 15:50:34","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"v0xoORrEOHX0a9M8"}
+{"date":"13-Out-2019 00:35:16","total":270,"cartao":true,"parcelas":4,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"vgxftQhhDSv5pS3i"}
+{"date":"04-Out-2019 22:58:19","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"wWqhOqATkpxtkiYZ"}
+{"date":"04-Out-2019 22:59:55","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"x3vQSIAGr1kc7vc7"}
+{"date":"27-Set-2019 15:33:50","total":0,"items":[{"id":0,"name":"","price":0,"quantity":1},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"_id":"xAkV4vo6FYdu4jfX"}
+{"date":"30-Set-2019 17:24:26","total":45,"items":[{"id":0,"name":"jk","price":"45","quantity":1}],"_id":"xI9RkQchbmaIyGU6"}
+{"date":"11-Out-2019 15:23:51","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"xOqhkBgzJZdCL1WS"}
+{"date":"13-Out-2019 13:42:00","total":270,"cartao":false,"parcelas":-1,"totalPago":"275","garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"xT6nwrBzE6rKUw3W"}
+{"date":"13-Out-2019 10:50:54","total":450,"cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"xUxRtLiXewEjS20o"}
+{"date":"04-Out-2019 13:22:24","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"y3jorqi2bsFdF48x"}
+{"date":"19-Out-2019 21:08:22","total":"502.06","desconto":"0.00","cartao":true,"parcelas":3,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":"450.00","quantity":1,"precofabrica":"400.00"}],"_id":"yaGJsqLFMJ7sJZAM"}
+{"date":"04-Out-2019 13:32:46","total":450,"items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"z8dWsjF7GAVBrDOy"}
+{"date":"13-Out-2019 00:21:04","total":450,"cartao":false,"parcelas":-1,"totalPago":0,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":6901789882006,"name":"Samsung Galaxy S7","price":450,"quantity":1}],"_id":"zfj1dZisnupEwG9q"}
+{"date":"13-Out-2019 10:02:19","total":270,"cartao":true,"parcelas":4,"troco":0,"garantia":"NÃO POSSUI","items":[{"id":7896020692584,"name":"Beats Solo 3 HeadPhone","price":270,"quantity":1}],"_id":"zk9hqf2sySWdMfNh"}
