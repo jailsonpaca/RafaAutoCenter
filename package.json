@@ -109,7 +109,7 @@
   "devDependencies": {
     "@rescripts/cli": "^0.0.11",
     "@rescripts/rescript-env": "^0.0.10",
-    "electron": "6.0.4",
+    "electron": "7.2.4",
     "electron-builder": "^21.2.0",
     "electron-packager": "^14.1.0"
   }
