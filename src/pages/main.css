@@ -1,0 +1,106 @@
+.apexcharts-title-text{
+    font-weight: bold;
+    font-family: inherit !important;
+    transform: translate(10px, 10px);
+}
+
+.container{
+	margin-top: 1.5% !important;
+	margin-left: 1% !important;
+	/*max-width: 80%;*/
+}
+
+
+.ContainerMain{
+max-width: 980px;
+margin:0 auto;
+padding: 50px 0;
+text-align: center;
+
+
+}
+
+.ContainerMain ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+    margin-top: 50px;
+}
+
+.ContainerMain ul li{
+    border-radius:5px 5px 5px 5px;
+    transition: all 200ms ease-out;
+    display: flex;
+    flex-direction: column;
+     
+}
+
+.ContainerMain ul li:hover {
+    box-shadow: 0 0 6px blueviolet;
+}
+
+.ContainerMain ul li img{
+    max-width: 100%; 
+}
+
+.ContainerMain ul li footer{
+    flex: 1;
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 15px 20px;
+    text-align: left;
+    border-radius: 0 0 5px 5px;
+     
+}
+
+.ContainerMain ul li footer strong{
+    font-size: 16px;
+    color:#333;
+}
+
+
+.ContainerMain ul li footer p{
+    font-size: 14px;
+    color:#999; 
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+.ContainerMain ul li .buttons{
+   
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.ContainerMain ul li .buttons button{
+    background-color: #fff;
+    border: 1px solid rgba(50, 0, 150, 0.2);
+    border-radius: 5px;
+    height: 50px;
+    box-shadow: 0 0 0 0.3px rgba(50, 0, 150, 0.2);
+    transition: all 200ms ease-out;
+ 
+}
+
+.ContainerMain ul li .buttons button:hover,.ContainerMain ul li .buttons button:hover {
+    box-shadow: 0 0 6px blueviolet;
+}
+
+.ContainerMain ul li .buttons button:hover img{
+    transform: translateY(-3px) scale(1.2,1.2);
+    
+    transition: all 0.2s;
+
+}
+
+.ContainerMain .empty{
+
+    font-size: 32px;
+    color:#999;
+    font-weight: bold;
+    margin-top: 200px;
+
+}
