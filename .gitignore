@@ -14,6 +14,7 @@ SumatraPDF.exe
 test.pdf
 yarn.lock
 yarn-error.log
+replacements.txt
 ##
 
 
